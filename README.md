@@ -8,7 +8,7 @@
 <p align="left">☑ 팀을 위해 해야할 일을 스스로 찾고 진행할 수 있습니다.</p>
 <hr style="border: solid 0.5px #eee;">
 
-<h3 align="left">🛠️My Tech Stack🛠️</h3>
+<h3 align="left">🛠️My Tech Stack🛠️</h3> 
 <table>
   <tr>
     <th>BACK-END</th>
@@ -26,4 +26,6 @@
 <td> <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p></td>
   </tr>
 </table>
+
+
 
